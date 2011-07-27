@@ -8,7 +8,7 @@ Profile Naming
 
 There profile names are made up of a few different tokens:
 
-* PLA XX -- Name of the PLA currently there is PLA45 (PLA which melts at ~195°C) and there will be PLA90 (PLA which melts at ~210°C)
+* PLAXX -- Name of the PLA currently there is PLA45 (PLA which melts at ~195°C) and there will be PLA90 (PLA which melts at ~210°C)
 * ZX.XX -- Height of the layers in mm
 * nr -- no raft
 * quick -- 1.5x speed of the normal profiles
