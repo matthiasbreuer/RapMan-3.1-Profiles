@@ -6,9 +6,9 @@ These are Skeinforge 41 profiles for the RapMan 3.1 printer.
 Profile Naming
 --------------
 
-There profile names are made up of a few different tokens:
+The profile names are made up of a few different tokens:
 
-* PLAXX -- Name of the PLA currently there is PLA45 (PLA which melts at ~195°C) and there will be PLA90 (PLA which melts at ~210°C)
+* PLAXX -- Name of the PLA. Currently there is PLA45 (PLA which melts at ~195°C) and there will be PLA90 (PLA which melts at ~210°C). See [here](http://www.orbi-tech.de/shop/Plastic-Welding-Rod/PLA:::30_46.html "Orbi-Tech Webshop") for characteristics.
 * ZX.XX -- Height of the layers in mm
 * nr -- no raft
 * quick -- 1.5x speed of the normal profiles
