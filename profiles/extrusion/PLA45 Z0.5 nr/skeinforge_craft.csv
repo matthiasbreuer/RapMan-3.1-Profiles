@@ -3,7 +3,7 @@ _Name                          	Value
 WindowPosition	600+0
 Open File for Craft	C:/Users/Fab/Downloads/box klein organisch v2.stl
 bottom	False
-carve	True
+carve	False
 chamber	False
 chop	False
 cleave	False
@@ -30,7 +30,7 @@ multiply	False
 oozebane	False
 outset	False
 preface	False
-raft	False
+raft	True
 scale	False
 skirt	False
 speed	False
