@@ -13,6 +13,7 @@ The profile names are made up of a few different tokens:
 * nr -- no raft
 * quick -- 1.5x speed of the normal profiles
 * fast -- 2.0x speed of the normal profile
+* faster -- 3.0x speed of the normal profile
 
 Installation
 ------------
