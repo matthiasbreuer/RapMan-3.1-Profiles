@@ -1,7 +1,8 @@
 Format is tab separated skeinforge craft settings.
 _Name                          	Value
 WindowPosition	600+0
-Open File for Craft	C:/Users/Fab/Downloads/golvend.stl
+Open File for Craft	C:/Users/Fab/Downloads/ipad-iphone-dock.stl
+bookend	True
 bottom	False
 carve	False
 chamber	False
@@ -15,7 +16,7 @@ dimension	False
 drill	False
 export	False
 feed	False
-fill	True
+fill	False
 fillet	False
 flow	False
 home	False
@@ -32,6 +33,7 @@ outset	False
 preface	False
 raft	False
 scale	False
+skin	False
 skirt	False
 speed	False
 splodge	False

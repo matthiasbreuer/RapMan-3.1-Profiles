@@ -3,8 +3,6 @@ _Name                          	Value
 WindowPosition	700+0
 Open File for Preface	
 Meta:	
-Name of End File:	end_rapman_pla45.gcode
-Name of Start File:	start_rapman_pla45.gcode
 Set Positioning to Absolute	True
 Set Units to Millimeters	True
 Start at Home	False
