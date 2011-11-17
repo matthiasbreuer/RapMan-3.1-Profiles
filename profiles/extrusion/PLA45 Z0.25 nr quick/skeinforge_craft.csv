@@ -2,7 +2,7 @@ Format is tab separated skeinforge craft settings.
 _Name                          	Value
 WindowPosition	600+0
 Open File for Craft	C:/Users/Fab/Downloads/strutcap.stl
-bookend	True
+alteration	False
 bottom	False
 carve	False
 chamber	False
@@ -27,7 +27,7 @@ lash	False
 lift	False
 limit	False
 mill	False
-multiply	False
+multiply	True
 oozebane	False
 outset	False
 preface	False
@@ -35,6 +35,7 @@ raft	False
 scale	False
 skin	False
 skirt	False
+smooth	False
 speed	False
 splodge	False
 stretch	False

@@ -1,6 +1,6 @@
 Format is tab separated skeinforge settings.
 _Name                          	Value
-WindowPosition	281+15
+WindowPosition	572+18
 Open File for Skeinforge	C:/Users/Fab/Downloads/Spulenhalter/Spool_Side.stl
 analyze	False
 craft	True

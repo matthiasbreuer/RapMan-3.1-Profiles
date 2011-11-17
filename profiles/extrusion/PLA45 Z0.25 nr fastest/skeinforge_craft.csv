@@ -2,7 +2,7 @@ Format is tab separated skeinforge craft settings.
 _Name                          	Value
 WindowPosition	600+0
 Open File for Craft	C:/Users/Fab/Downloads/box klein organisch v2.stl
-bookend	True
+alteration	False
 bottom	False
 carve	False
 chamber	False
@@ -35,7 +35,8 @@ raft	False
 scale	False
 skin	False
 skirt	False
-speed	False
+smooth	False
+speed	True
 splodge	False
 stretch	False
 temperature	False
