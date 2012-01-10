@@ -1,7 +1,7 @@
 Format is tab separated skeinforge settings.
 _Name                          	Value
-WindowPosition	328+16
-Open File for Skeinforge	C:/Users/Fab/Downloads/mralligator.stl
+WindowPosition	572+18
+Open File for Skeinforge	C:/Users/Fab/Desktop/kopierring.stl
 analyze	False
 craft	True
 help	False

@@ -12,8 +12,8 @@ Feed Rate (mm/s):	24.0
 Flow Rate Setting (float):	573.0
 Object First Layer Feed Rate Infill Multiplier (ratio):	0.75
 Object First Layer Feed Rate Perimeter Multiplier (ratio):	0.75
-Object First Layer Flow Rate Infill Multiplier (ratio):	1.5
-Object First Layer Flow Rate Perimeter Multiplier (ratio):	1.5
+Object First Layer Flow Rate Infill Multiplier (ratio):	1.0
+Object First Layer Flow Rate Perimeter Multiplier (ratio):	1.0
 Orbital Feed Rate over Operating Feed Rate (ratio):	2.0
 Maximum Z Feed Rate (mm/s):	1.0
 Perimeter Feed Rate Multiplier (ratio):	1.0

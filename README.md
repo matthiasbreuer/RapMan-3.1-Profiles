@@ -1,7 +1,7 @@
 RapMan 3.1 Skeinforge profiles
 =================================
 
-These are Skeinforge 45 (http://skeinforge.com) profiles for the RapMan 3.1 printer.
+These are Skeinforge 46 (http://skeinforge.com) profiles for the RapMan 3.1 printer.
 
 Profile Naming
 --------------
