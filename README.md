@@ -1,20 +1,18 @@
 RapMan 3.1 Skeinforge profiles
 =================================
 
-These are Skeinforge 46 (http://skeinforge.com) profiles for the RapMan 3.1 printer.
+These are Skeinforge 47 (http://skeinforge.com) profiles for the RapMan 3.1 printer.
 
 Profile Naming
 --------------
 
 The profile names are made up of a few different tokens:
 
+* RM3.1 -- Indicates RapMan v3.1
 * PLAXX -- Name of the PLA. Currently there is PLA45 (PLA which melts at ~195°C) and there will be PLA90 (PLA which melts at ~210°C). See [here](http://www.orbi-tech.de/shop/Plastic-Welding-Rod/PLA:::30_46.html "Orbi-Tech Webshop") for characteristics.
 * ZX.XX -- Height of the layers in mm
 * nr -- no raft
-* quick -- 1.5x speed of the normal profiles (24 mm/s)
-* fast -- 2.0x speed of the normal profile (32 mm/s)
-* faster -- 3.0x speed of the normal profile (48 mm/s)
-* fastest -- 4.0x speed of the normal profile (64 mm/s)
+* x -- Times speed (16mm/s is 1.0)
 
 Installation
 ------------
