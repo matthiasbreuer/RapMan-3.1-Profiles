@@ -1,7 +1,7 @@
 Format is tab separated skeinforge craft settings.
 _Name                          	Value
 WindowPosition	600+0
-Open File for Craft	C:/Users/Fab/Downloads/strutcap.stl
+Open File for Craft	C:/Users/Fab/Downloads/ipad-iphone-dock.stl
 alteration	False
 bottom	False
 carve	False
@@ -27,7 +27,7 @@ lash	False
 lift	False
 limit	False
 mill	False
-multiply	True
+multiply	False
 oozebane	False
 outset	False
 preface	False
@@ -36,7 +36,7 @@ scale	False
 skin	False
 skirt	False
 smooth	False
-speed	False
+speed	True
 splodge	False
 stretch	False
 temperature	False
