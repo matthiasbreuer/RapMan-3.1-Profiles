@@ -5,4 +5,5 @@ Open File for Alteration
 Activate Alteration	True
 Name of End File:	end_rapman_pla45.gcode
 Name of Start File:	start_rapman_pla45.gcode
+Remove Redundant Mcode	True
 Replace Variable with Setting	True

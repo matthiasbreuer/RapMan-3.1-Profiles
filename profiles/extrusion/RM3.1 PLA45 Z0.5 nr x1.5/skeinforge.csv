@@ -1,7 +1,7 @@
 Format is tab separated skeinforge settings.
 _Name                          	Value
-WindowPosition	572+18
-Open File for Skeinforge	
+WindowPosition	433+38
+Open File for Skeinforge	F:/Neuer Ordner/schablone ausfraesung.stl
 analyze	False
 craft	True
 help	False

@@ -7,6 +7,6 @@ comment	False
 interpret	False
 skeiniso	False
 skeinlayer	False
-statistic	False
-synopsis	True
+statistic	True
+synopsis	False
 vectorwrite	False
