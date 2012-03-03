@@ -1,6 +1,6 @@
 Format is tab separated skeinforge settings.
 _Name                          	Value
-WindowPosition	433+38
+WindowPosition	288+2
 Open File for Skeinforge	C:/Users/Fab/Downloads/PolygonPusher_-_3D_printable_clothespin_v01.stl
 analyze	False
 craft	True

@@ -1,7 +1,7 @@
 RapMan 3.1 Skeinforge profiles
 =================================
 
-These are Skeinforge 47 (http://skeinforge.com) profiles for the RapMan 3.1 printer.
+These are Skeinforge 49 (http://skeinforge.com) profiles for the RapMan 3.1 printer from BitsFromBytes.
 
 Profile Naming
 --------------
@@ -17,4 +17,4 @@ The profile names are made up of a few different tokens:
 Installation
 ------------
 
-Put both the *alterations* folder and the *profiles* folder into your *.skeinforge* folder. On Mac and Linux this is in your Home directory (`~/.skeinforge`), on WIndows it is in `C:\Users\Your Username\.skeinforge`.
+Put both the *alterations* folder and the *profiles* folder into your *.skeinforge* folder. On Mac and Linux this is in your Home directory (`~/.skeinforge`), on Windows it is in `C:\Users\<Your Username>\.skeinforge`.
