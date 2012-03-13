@@ -35,9 +35,9 @@ preface	False
 raft	False
 scale	False
 skin	False
-skirt	False
+skirt	True
 smooth	False
-speed	True
+speed	False
 splodge	False
 stretch	False
 temperature	False
