@@ -10,7 +10,7 @@ chop	False
 cleave	False
 clip	False
 coil	False
-comb	True
+comb	False
 cool	False
 dimension	False
 drill	False
@@ -37,7 +37,7 @@ scale	False
 skin	False
 skirt	False
 smooth	False
-speed	False
+speed	True
 splodge	False
 stretch	False
 temperature	False
