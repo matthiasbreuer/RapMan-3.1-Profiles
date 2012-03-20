@@ -1,7 +1,7 @@
 Format is tab separated skeinforge settings.
 _Name                          	Value
-WindowPosition	288+2
-Open File for Skeinforge	C:/Users/Matt/Desktop/deep-hermaphrodite-40k-faces/deep-hermaphrodite-40k-faces_3.stl
+WindowPosition	1073+74
+Open File for Skeinforge	C:/Users/Matt/Desktop/Stecker v3.stl
 analyze	False
 craft	True
 help	False

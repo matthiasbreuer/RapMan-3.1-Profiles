@@ -14,7 +14,7 @@ comb	False
 cool	False
 dimension	False
 drill	False
-dwindle	False
+dwindle	True
 export	False
 feed	False
 fill	False
@@ -22,7 +22,7 @@ fillet	False
 flow	False
 home	False
 hop	False
-inset	True
+inset	False
 jitter	False
 lash	False
 lift	False

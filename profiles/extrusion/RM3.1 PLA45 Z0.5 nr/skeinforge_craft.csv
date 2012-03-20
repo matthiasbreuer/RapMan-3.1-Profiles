@@ -10,11 +10,11 @@ chop	False
 cleave	False
 clip	False
 coil	False
-comb	True
+comb	False
 cool	False
 dimension	False
 drill	False
-dwindle	False
+dwindle	True
 export	False
 feed	False
 fill	False
