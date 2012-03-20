@@ -1,7 +1,7 @@
 RapMan 3.1 Skeinforge profiles
 =================================
 
-These are Skeinforge 50 (http://skeinforge.com) profiles for the RapMan 3.1 printer from BitsFromBytes.
+These are Skeinforge 50 (http://skeinforge.com) profiles for the RapMan 3.1 printer from BitsFromBytes. The settings are mostly copied over from the BitsFromBytes Axon 2 software to pure Skeinforge.
 
 Profile Naming
 --------------
