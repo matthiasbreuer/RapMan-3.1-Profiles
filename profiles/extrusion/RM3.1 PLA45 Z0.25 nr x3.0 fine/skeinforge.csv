@@ -1,6 +1,6 @@
 Format is tab separated skeinforge settings.
 _Name                          	Value
-WindowPosition	288+2
+WindowPosition	197+37
 Open File for Skeinforge	C:/Users/Matt/Downloads/mralligator (rebuilt).stl
 analyze	False
 craft	True

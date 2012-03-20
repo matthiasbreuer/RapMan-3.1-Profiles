@@ -22,7 +22,7 @@ fillet	False
 flow	False
 home	False
 hop	False
-inset	False
+inset	True
 jitter	False
 lash	False
 lift	False
@@ -32,7 +32,7 @@ multiply	False
 oozebane	False
 outset	False
 preface	False
-raft	True
+raft	False
 scale	False
 skin	False
 skirt	False
