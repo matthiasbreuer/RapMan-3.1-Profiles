@@ -1,7 +1,7 @@
 RapMan 3.1 Skeinforge profiles
 =================================
 
-These are Skeinforge 49 (http://skeinforge.com) profiles for the RapMan 3.1 printer from BitsFromBytes.
+These are Skeinforge 50 (http://skeinforge.com) profiles for the RapMan 3.1 printer from BitsFromBytes.
 
 Profile Naming
 --------------
