@@ -14,7 +14,7 @@ comb	False
 cool	False
 dimension	False
 drill	False
-dwindle	True
+dwindle	False
 export	False
 feed	False
 fill	False
@@ -28,7 +28,7 @@ lash	False
 lift	False
 limit	False
 mill	False
-multiply	False
+multiply	True
 oozebane	False
 outset	False
 preface	False

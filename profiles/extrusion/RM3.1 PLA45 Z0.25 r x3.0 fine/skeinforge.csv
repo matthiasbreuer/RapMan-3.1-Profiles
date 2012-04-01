@@ -1,6 +1,6 @@
 Format is tab separated skeinforge settings.
 _Name                          	Value
-WindowPosition	1073+74
+WindowPosition	1111+40
 Open File for Skeinforge	C:/Users/Matt/Desktop/200k-rdy-for-skein/200k-rdy-for-skein2.stl
 analyze	False
 craft	True
