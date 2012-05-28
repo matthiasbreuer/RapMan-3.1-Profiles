@@ -1,6 +1,6 @@
 Format is tab separated skeinforge settings.
 _Name                          	Value
-WindowPosition	1111+40
+WindowPosition	256+7
 Open File for Skeinforge	C:/Users/Matt/Desktop/Stecker v3.stl
 analyze	False
 craft	True

@@ -4,7 +4,7 @@ WindowPosition	700+0
 Open File for Multiply	
 Activate Multiply	True
 Center X (mm):	0.0
-Center Y (mm):	-12.5
+Center Y (mm):	0.0
 Number of Columns (integer):	1
 Number of Rows (integer):	1
 Reverse Sequence every Odd Layer	False
