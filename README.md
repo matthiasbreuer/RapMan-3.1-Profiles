@@ -18,7 +18,7 @@ The profile names are made up of a few different tokens:
 
 Merge both the *alterations* folder and the *profiles* folder into your *.skeinforge* folder. On Mac and Linux this is in your Home directory (`~/.skeinforge`), on Windows it is in `C:\Users\<Your Username>\.skeinforge`. If the `.skeinforge` folder doesn't exist, you have to create it.
 
-Remember, on Linux and Mac the folder will be hidden from you. To navigate to the folder on a Mac, open the Finder and press Shift-Command-G and enter `~/.skeinforge`. On Ubuntu Linux you can simply press Ctrl+H in Nautilus to reveal hidden files and folders.
+Remember, on Linux and Mac the folder will be hidden from you. To navigate to the folder on a Mac, open the Finder and press *Shift-Command-G* and enter `~/.skeinforge`. On Ubuntu Linux you can simply press *Ctrl+H* in Nautilus to reveal hidden files and folders.
 
 ## Raft
 
