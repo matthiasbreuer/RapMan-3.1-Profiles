@@ -20,7 +20,7 @@ Put both the *alterations* folder and the *profiles* folder into your *.skeinfor
 
 ## Raft
 
-You can enable the raft on any profile by selecting the *raft* tab, setting both *Base Layer* and *Interface Layers* to *1*. A raft is especially useful when the model won't stick to the build platform properly.
+You can enable the raft for any profile. Select the *raft* tab and set both *Base Layer* and *Interface Layers* to *1*. A raft is especially useful when the model won't stick to the build platform properly.
 
 ## Support
 
